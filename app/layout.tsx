@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'FELIZ CUMPLEAÑOS NIÑO',
   description: 'Te quiero ',
-  generator: 'v0.app',
+  generator: 'feliz cumple',
 }
 
 export default function RootLayout({
